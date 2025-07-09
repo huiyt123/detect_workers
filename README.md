@@ -1,8 +1,8 @@
-# 工人工地安全检测系统
+![image](https://github.com/user-attachments/assets/0be5ac44-4f46-4c1a-b071-462b142c124d)# 工人工地安全检测系统
 
 ## 项目简介
 
-本项目基于 YOLOv11 实现工地工人安全帽佩戴检测，支持数据集自动划分、模型训练、测试与 Web 可视化推理。
+本项目基于 YOLO11 实现工地工人安全帽佩戴检测，支持数据集自动划分、模型训练、测试与 Web 检测结果演示。
 
 ---
 
@@ -125,4 +125,4 @@ python test.py --mode val --data dataset.yaml
 streamlit run app.py
 ```
 
-- 运行后在web页面上传图片即可检测，结果会显示在页面上，并统计检测数量
+- 运行后在web页面上传图片或者视频进行检测，检测结果会实时显示在页面上
