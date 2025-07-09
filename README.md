@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/0be5ac44-4f46-4c1a-b071-462b142c124d)# 工人工地安全检测系统
+# 工人工地安全检测系统
 
 ## 项目简介
 
